@@ -34,7 +34,7 @@ Areas of interest:
 
 ### Education
 - **CentraleSupélec** – MEng, Artificial Intelligence and Data Science  
-- **University of Tokyo** – Exchange semester, Technology Management for Innovation (2024)
+- **University of Tokyo** – Exchange semester, Technology Management for Innovation (2025)
 
 ---
 
