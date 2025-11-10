@@ -22,7 +22,7 @@ Areas of interest:
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**wine-quality-forecasting**](https://github.com/LucasPoncet/wine-quality-forecasting) | Predicts French wine quality from historical weather data (1950–2023). Focuses on data preparation, feature analysis, and neural network modeling. | PyTorch, Pandas, Plotly |
+| [**wine-quality-forecasting**](https://github.com/LucasPoncet/wine-quality-forecasting) | Predicts French wine quality from historical weather data (1950–2024). Focuses on data preparation, feature analysis, and neural network modeling. | PyTorch, Pandas, Plotly |
 | [**STRM**](https://github.com/LucasPoncet/STRM) | Website for an electrical-services company, built with responsive design and client-managed content. | React, TypeScript, Tailwind, Vite |
 
 ---
