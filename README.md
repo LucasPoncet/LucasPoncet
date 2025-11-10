@@ -39,7 +39,7 @@ Areas of interest:
 ---
 
 ### Contact
-Paris / Tokyo  
+Paris 
 [LinkedIn](https://www.linkedin.com/in/lucas-poncet-cs/) · [GitHub](https://github.com/LucasPoncet)
 
 ---
